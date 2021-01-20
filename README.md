@@ -2,6 +2,10 @@
 This project is aimed toward building a Raspberry Pi robot which utilizes machine learning to follow a leader object based on its color.
 
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LvnPhh2TLIY/0.jpg)](https://www.youtube.com/watch?v=LvnPhh2TLIY)
+
+
+
 ## How to run:
 1) Follow the instructions in section 5 “Hardware Implementation” of the [report](./Docs/Team3_Report.pdf) to build the same robot we used.
 
