@@ -1,8 +1,8 @@
 # Following Assistant Robot
 This project is aimed toward building a Raspberry Pi robot which utilizes machine learning to follow a leader object based on its color.
 
-
-[](https://www.youtube.com/watch?v=LvnPhh2TLIY)
+## Demo Video:
+[![Demo Video](https://img.youtube.com/vi/LvnPhh2TLIY/0.jpg)](https://www.youtube.com/watch?v=LvnPhh2TLIY)
 
 
 
