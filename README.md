@@ -3,7 +3,7 @@ This project is aimed toward building a Raspberry Pi robot which utilizes machin
 
 
 ## How to run:
-1) Follow the instructions in section 5 “Hardware Implementation” of our report to build the same robot we used.
+1) Follow the instructions in section 5 “Hardware Implementation” of our [report](Docs/Team3_Report) to build the same robot we used.
 
 2) Make sure to have a separate power supply for the motors and the Raspberry Pi.
 
